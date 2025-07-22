@@ -6,12 +6,14 @@ This is the Official SparkCTF 2.0 Challenge Template Repository. This repository
 
 The format of the flag prefix is `SPARK25`.
 
-> [!tip] Flag Example
-> `SPARK25{1_aM_a_aw3s0m3_F1Ag}`
+> [!tip]
+> **Flag Example:** `SPARK25{1_aM_a_aw3s0m3_F1Ag}`
 
 If the flag is unobtainable in the requireed format, you are required to state the flag format within the challenge description.
 
-> [!tip] Flag Format Description
+> [!tip]
+> **Flag Format Description**
+>
 > **Flag Format:** \
 > Type in the interchange name (first word only) and include a 'interchange' at the end, and replace spacings with '_'. \
 > `SPARK25{bedok_interchange}`
