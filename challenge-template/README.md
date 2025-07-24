@@ -17,4 +17,4 @@
 - [`test_container`](./service/test_container) (port 1337)
 
 ## Flags
-- `SIG25{example}`
+- `SPARK{example}`
