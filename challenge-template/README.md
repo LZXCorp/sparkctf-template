@@ -5,7 +5,7 @@
 ## Summary
 - **Author:** [Name]
 - **Category:** [Category]
-- **Difficulty:** [Difficulty]
+- **Learning Objective:** [Learning Objective]
 
 ## Hints
 - `[Hint Content]` (100 points)
